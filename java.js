@@ -1,4 +1,3 @@
-
 document.addEventListener("DOMContentLoaded", () => {
   const toggleBtn = document.getElementById("toggleModeBtn");
   toggleBtn.addEventListener("click", () => {
@@ -26,17 +25,17 @@ document.addEventListener("DOMContentLoaded", () => {
       welcome: "☁ ● Bienvenido a Mi Portafolio ● ☁",
       introText: "Me especializo en animaciones R6 y R15 para Roblox. ¡Los precios varían según la complejidad!",
       title: "💥 Animador de Roblox – R6 & R15 💥",
-      desc: "Soy un animador de Roblox con experiencia en crear animaciones de combate de alta calidad.",
+      desc: "Soy un animador de Roblox con experiencia en crear animaciones de combate movimientos escenas etc.",
       offersTitle: "📝 Lo que ofrezco:",
       offer1: "Animaciones de ataque personalizadas",
       offer2: "Movimiento limpio y fluido",
       offer3: "Calidad profesional para juegos de pelea",
       offer4: "Soporte para R6 y R15",
       pricingTitle: "💰 Precios:",
-      price1: "Combate/movimiento simple (M1, dashes, etc.): 400+ Robux / $4+",
-      price2: "Movimientos (caminar, correr, etc.): 500+ Robux / $5+",
-      price3: "Habilidades y poderes: 800+ Robux / $10+",
-      price4: "Cinemáticas: 1000+ Robux / $15+",
+      price1: "Combate/movimiento simple (M1, dashes, etc.): 400+ Robux / $4 USD",
+      price2: "Movimientos (caminar, correr, etc.): 500+ Robux / $5 USD",
+      price3: "Habilidades y poderes: 800+ Robux / $10 USD",
+      price4: "Cinemáticas: 1000+ Robux / $15 USD",
       taxNote: "Pagos en Robux son después de impuestos. USD preferido. 💸",
       videosTitle: "Videos de YouTube",
       contactTitle: "Contáctame"
@@ -44,7 +43,7 @@ document.addEventListener("DOMContentLoaded", () => {
     en: {
       welcome: "☁ ● Welcome to My Portfolio ● ☁",
       introText: "I specialize in Roblox R6 and R15 animations. Prices vary depending on the complexity!",
-      title: "💥 Roblox Animator – R6 & R15 💥",
+      title: "💥 Roblox Animator 💥",
       desc: "I'm a Roblox animator with experience in creating high-quality combat animations for both R6 and R15 rigs.",
       offersTitle: "📝 What I Offer:",
       offer1: "Custom attack animations",
@@ -52,10 +51,10 @@ document.addEventListener("DOMContentLoaded", () => {
       offer3: "M1 animations",
       offer4: "R6 and R15 support",
       pricingTitle: "💰 Prices:",
-      price1: "Simple combat/movement (M1, dashes, etc.): 400+ Robux / $4+",
-      price2: "Movements (Walk, Run, etc.): 500+ Robux / $5+",
-      price3: "Abilities, skills: 800+ Robux / $10+",
-      price4: "Cutscenes: 1000+ Robux / $15+",
+      price1: "Simple combat/movement (M1, dashes, etc.): 400+ Robux / $4 USD",
+      price2: "Movements (Walk, Run, etc.): 500+ Robux / $5 USD",
+      price3: "Abilities, skills: 800+ Robux / $10 USD",
+      price4: "Cutscenes: 1000+ Robux / $15 USD",
       taxNote: "Robux payments are post-tax prices. USD preferred. 💸",
       videosTitle: "YouTube Videos",
       contactTitle: "Contact Me"
