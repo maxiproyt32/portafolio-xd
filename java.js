@@ -24,7 +24,7 @@ document.addEventListener("DOMContentLoaded", () => {
     es: {
       welcome: "☁ ● Bienvenido a Mi Portafolio ● ☁",
       introText: "Me especializo en animaciones R6 y R15 para Roblox. ¡Los precios varían según la complejidad!",
-      title: "💥 Animador de Roblox – R6 & R15 💥",
+      title: "💥 Animador de Roblox 💥",
       desc: "Soy un animador de Roblox con experiencia en crear animaciones de combate movimientos escenas etc.",
       offersTitle: "📝 Lo que ofrezco:",
       offer1: "Animaciones de ataque personalizadas",
